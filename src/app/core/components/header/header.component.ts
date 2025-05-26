@@ -1,6 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-
-// Enums
 import { ETheme } from '../../enums/ETheme.enum';
 
 @Component({
